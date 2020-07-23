@@ -1,2 +1,2 @@
 # gwhelper
-A discord bot for GuildWars related stuff
+Discord Bot für GuildWars Features
